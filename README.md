@@ -2,6 +2,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evon00&show_icons=true&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evon00&layout=compact&theme=dracula)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwogur36)](https://solved.ac/dbwogur36/)
 
 ## Skills
@@ -17,5 +19,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![intellij IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
-## Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evon00&layout=compact&theme=dracula)
