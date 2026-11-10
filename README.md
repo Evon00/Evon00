@@ -1,7 +1,7 @@
 ## Yu Jae Hyeok (Evon00)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evon00&show_icons=true&theme=monokai)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Evon00)](https://github.com/stats-organization/github-stats-extended)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evon00&layout=compact&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwogur36)](https://solved.ac/dbwogur36/)
